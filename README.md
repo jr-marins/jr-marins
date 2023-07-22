@@ -3,7 +3,7 @@
 <i> `"Eu acho que às vezes são as pessoas que menos imaginamos que fazem as coisas que ninguém imaginária."
 -Turing`</i>
 
-<p> Olá, sou o Marcos Marins e estudo Análise e desenvolvimento de sistemas, sou inicinate na área mas muito curioso e procurando coisas novas. Se ainda não ingressou nesse universo que chamamos Dev não perca tempo! Você vai se surpreender 😉  </p>
+<p> Olá, sou o Marcos Marins e estudo Análise e desenvolvimento de sistemas, sou iniciante na área mas muito curioso e procurando coisas novas. Se ainda não ingressou nesse universo que chamamos Dev não perca tempo! Você vai se surpreender 😉  </p>
 
 # Conente-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcos-marins-55097126b/)
