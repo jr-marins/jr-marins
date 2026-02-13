@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcos-marins-55097126b/)
 
 ## Github status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jr-marinss&commits_year=2020)
+[![Junior Marins GitHub stats](https://github-readme-stats.vercel.app/api?username=jr-marins)](https://github.com/jr-marins/github-readme-stats)
 
 
 # Linguagens de Marcação de texto e style
