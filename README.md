@@ -1,6 +1,6 @@
 # 👋 Marcos Marins | Jr Marins
 
-<i>"Às vezes são as pessoas que ninguém imagina que fazem as coisas que ninguém imagina."</i>  
+<i>"Às vezes são as pessoas que ninguém imagina que fazem as coisas que ninguém imaginaria."</i>  
 
 ---
 
